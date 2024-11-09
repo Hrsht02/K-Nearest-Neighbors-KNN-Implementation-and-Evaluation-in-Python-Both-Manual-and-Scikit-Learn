@@ -1,3 +1,7 @@
+Here's a GitHub-friendly README that includes all relevant details for users exploring your repository:
+
+---
+
 # K-Nearest Neighbors (KNN) Algorithm: Manual Implementation and Scikit-Learn Comparison
 
 This repository contains a hands-on implementation of the K-Nearest Neighbors (KNN) algorithm for classification using Python. This project includes both a custom-built KNN model, implemented from scratch, and a benchmark comparison with Scikit-Learn's KNN model. By applying these models to the Iris dataset, we explore KNN’s mechanics and demonstrate its effectiveness in a straightforward classification task.
@@ -73,3 +77,5 @@ This script will train both the manual and Scikit-Learn KNN models, classify tes
 ## Results
 On the Iris dataset, both the manual and Scikit-Learn KNN models achieved an accuracy of 97%. This consistency demonstrates that the custom implementation closely matches the standardized Scikit-Learn model, validating its accuracy.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
